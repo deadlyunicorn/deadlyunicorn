@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on learning new things, expanding my knowledge, my field of view and practising.
 - 🌱 I’m currently learning app development with Flutter.
-- 👯 I’m looking to collaborate on... anything? Any great idea that catches my interest will do.
-<!--- 🤔 I’m looking for help with ...-->
+- 👯 I’m looking to collaborate on... anything? Any great idea that catches my interest will do.<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about my OS. ( I use Arch btw )
 - 📫 How to reach me: deadlyunicorn.dev
 - 😄 Pronouns: Fullstack Developer
