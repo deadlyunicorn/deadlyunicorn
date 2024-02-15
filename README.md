@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on... anything? Any great idea that catches my interest will do
   
       Note: Don't subscribe me to your mailing lists without my permission :) 
-- 💬 Ask me about my OS. ( I use Arch btw )
+- 💬 Ask me about my OS ( I use Arch btw )
 - 📫 How to reach me: [deadlyunicorn.dev/contact](https://www.deadlyunicorn.dev/contact)
 - 😄 Pronouns: Fullstack Developer
 - ⚡ Fun fact #1: DX > UX - Because happy developers, make happy users
