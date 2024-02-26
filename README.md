@@ -1,7 +1,7 @@
 ### Hi there 🦄 
 
 - 🔭 I’m currently working on learning new things, expanding my knowledge, my field of view and I am also practising in order to become better at programming
-- 🌱 I’m currently learning app development with Flutter
+- 🌱 I’m currently learning AWS Cloud Development 
 - 👯 I’m looking to collaborate on... anything? Any great idea that catches my interest will do
   
       Note: Don't subscribe me to your mailing lists without my permission :) 
