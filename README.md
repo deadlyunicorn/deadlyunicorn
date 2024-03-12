@@ -11,4 +11,4 @@
 - ⚡ Fun fact #1: DX > UX - Because happy developers, make happy users
 - ⚡ Fun fact #2: My cat Yukki has her own cult. Be sure to join it once the website is ready #soon
 - ⚡ Fun fact #3: You can add me on discord "@.deadlyunicorn"
-![deadlyunicorn](https://www.deadlyunicorn.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeadlyunicorn.bb70a139.png&w=16&q=75)
+![deadlyunicorn](https://deadlyunicorn.s3.eu-central-1.amazonaws.com/landing-page/assets/deadlyunicorn_github_emote.webp)
