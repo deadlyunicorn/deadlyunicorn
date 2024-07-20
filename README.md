@@ -1,7 +1,8 @@
 ## Hi there 🦄 
 My name is Alexander Petrache and I am a Software Developer. I have experience with a variety of technologies. The ones I am more fluent in are Flutter, React.js, Typescript, Node.js, MongoDB.
 
-I occasionally create my own designs using Figma. I am also interested in Cyber Security ( deadlyunicorn is my reserved nickname for the future ).
+I occasionally create my own designs using Figma.   
+I am also interested in Cyber Security ( deadlyunicorn is reserved for the future ).
 
 
 ### Fun Facts
